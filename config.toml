@@ -232,10 +232,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:zlsteel@ucdavis.edu"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:zlsteel@ucdavis.edu"
 
   [[params.social]]
     icon = "twitter"
