@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/project/bats/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/birds/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/wildfire/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/landscape-fire/</loc>
       <lastmod>2018-07-01T00:00:00-07:00</lastmod>
     </url>
@@ -106,7 +133,37 @@
     
     <url>
     
+      <loc>/tags/birds/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/landscape-ecology/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -127,6 +184,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/wildfire/</loc>
+      <lastmod>2018-08-02T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
