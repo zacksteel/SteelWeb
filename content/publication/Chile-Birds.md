@@ -43,7 +43,7 @@ selected = true
 tags = []
 
 # Links (optional).
-#url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "http://ieb-chile.cl/wp-content/uploads/2018/03/1_steel_etal_2017_ecological_indicators-1.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

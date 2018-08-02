@@ -1,3 +1,3 @@
 # SteelWeb
 
-My personal website can be found at **zacksteel.netlify.com**. I'm continuously tweeking it and have grand ambitions but less time. Currently, it's a pretty simple academic-style website built using the R package [Blogdown](https://bookdown.org/yihui/blogdown/), the site generator [hugo](https://gohugo.io/), and the hugo [academic theme](https://sourcethemes.com/academic/). Check back in as more content is added in the future.
+My personal website can be found at [**zacksteel.netlify.com**](zacksteel.netlify.com). I'm continuously tweeking it and have grand ambitions but less time. Currently, it's a pretty simple academic-style website built using the R package [Blogdown](https://bookdown.org/yihui/blogdown/), the site generator [hugo](https://gohugo.io/), and the hugo [academic theme](https://sourcethemes.com/academic/). Check back in as more content is added in the future.
