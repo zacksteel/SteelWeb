@@ -6,7 +6,7 @@
     <description>Recent content in Wildfire on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/wildfire/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,17 @@
     <item>
       <title>Bat Acoustics</title>
       <link>/project/bats/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/bats/</guid>
-      <description>During 2014-17 acoustic surveys of forest bat species were conducted in 3 Sierra Nevada fire areas and within surrounding unburned forested lands. Using these data and hierarchical modeling, I&amp;rsquo;m assessing how bat occupancy and activity levels vary across severity gradients, at different successional stages, and with post-fire management (i.e. salvage logging). Starting in 2017, surveys were expanded to two National Park wilderness areas and recordings were conducted coincident with temporary weather stations and throughout the summer season, allowing for assessments of bat phenology and activity fluctuations in response to weather.</description>
+      <description>Using acoustic surveys of bat echolocations and hierarchical modeling, I am assessing how bat occupancy and activity levels vary across disturbance gradients and habitat types in the Sierra Nevada Mountains.
+During 2014-17 we conducted acoustic surveys of forest bat species in 3 wildfire areas and within surrounding unburned forests. We are using these data to evaluate the effects of wildfire and post-fire management on the bat community. To date, this project has resulted in three technical reports ( here, here and here ) as well as the first version of a spatial predictive tool designed to inform forest service management of bat habitats in burned landscapes.</description>
     </item>
     
     <item>
       <title>Birds in burns</title>
       <link>/project/birds/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/birds/</guid>
       <description>During 2014-16 my collaborators and I conducted avian point count surveys across 8 Sierra Nevada fire areas of different ages. These efforts were combined with those from a regional monitoring program containing survey locations coincident with an additional 25 fires. Using these data and a multi-species occupancy modeling approach, I am assessing the influence of wildfire spatial patterns and successional trajectories on bird species occupancy and community composition. One publication stemming from this project is currently in preparation, with additional articles planned.</description>
@@ -32,11 +33,11 @@
     <item>
       <title>Wildfire Patterns</title>
       <link>/project/wildfire/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/wildfire/</guid>
-      <description>Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I&amp;rsquo;ve assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression.
-A lack of fire in yellow pine and mixed conifer forests (through exclusion or luck), leads to more high-severity when it does burn. Grey curves are model predictions for fires in the Sierra Nevada, the blue curve is fore the forest type in general.</description>
+      <description>Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I&amp;rsquo;ve assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression. This work has resulted in two publications, which can be found here and here.
+ A lack of fire in yellow pine and mixed conifer forests (through exclusion or luck), leads to more high-severity when it does burn.</description>
     </item>
     
   </channel>

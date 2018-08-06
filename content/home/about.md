@@ -18,12 +18,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Ecology"
-  institution = "Univesity of California, Davis"
+  institution = "University of California, Davis"
   year = "completion expected 2018"
   
 [[education.courses]]
   course = "MSc in Ecology"
-  institution = "Univerisity of California, Davis"
+  institution = "University of California, Davis"
   year = 2011
 
 [[education.courses]]
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I'm a PhD candidate in the UC Davis Ecology graduate program and the [Safford lab](https://saffordlab.wordpress.com/) studying the influence of disturbance on wildlife habitat. My dissertation research focuses on how wildfire alters landscape pattern, and influences habitat use of birds and bats in California's Sierra Nevada forests.  Specifically, I'm interested in how species use forests which have burned at various levels of severity, how this varies spatially in a heterogeneous landscape, and how these relationships change through successional time.  Previous research includes investigations into the influence of fire history on patterns of burn severity in California forests, the impact of vineyard development on bird communities in the Colchagua Valley, Chile, and vulnerability of sensitive species to climate change in the Willamette Valley, Oregon. 
+I'm a PhD candidate in the UC Davis Ecology graduate program and the [Safford lab](https://saffordlab.wordpress.com/). Through my research I seek to improve our understanding of how acute (e.g. wildfire) and chronic (e.g. climate) environmental stressors structure ecological communities, how landscape pattern mediates environmental drivers, and how anthropogenic change at local to global scales directly or indirectly alters community dynamics and species distributions. Specifically, my recent work focuses on how wildfire and forest management alters landscape pattern, and influences habitat use of birds and bats in the forests of California's Sierra Nevada Mountains.    

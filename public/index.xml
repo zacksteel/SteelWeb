@@ -6,23 +6,27 @@
     <description>Recent content in Zack Steel on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bat Acoustics</title>
       <link>/project/bats/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/bats/</guid>
-      <description>&lt;p&gt;During 2014-17 acoustic surveys of forest bat species were conducted in 3 Sierra Nevada fire areas and within surrounding unburned forested lands. Using these data and hierarchical modeling, I&amp;rsquo;m assessing how bat occupancy and activity levels vary across severity gradients, at different successional stages, and with post-fire management (i.e. salvage logging). Starting in 2017, surveys were expanded to two National Park wilderness areas and recordings were conducted coincident with temporary weather stations and throughout the summer season, allowing for assessments of bat phenology and activity fluctuations in response to weather. One publication stemming from this project is currently in preparation, with additional articles planned.&lt;/p&gt;
+      <description>&lt;p&gt;Using acoustic surveys of bat echolocations and hierarchical modeling, I am assessing how bat occupancy and activity levels vary across disturbance gradients and habitat types in the Sierra Nevada Mountains.&lt;/p&gt;
+
+&lt;p&gt;During 2014-17 we conducted acoustic surveys of forest bat species in 3 wildfire areas and within surrounding unburned forests. We are using these data to evaluate the effects of wildfire and post-fire management on the bat community. To date, this project has resulted in three technical reports ( &lt;a href=&#34;/../../files/Steel and Safford - Power Fire 2014-16 Bat Monitoring Report.pdf&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;/../../files/Point Blue 2015-16 Lassen National Forest post-fire final report.pdf&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;/../../files/Steel et al. 2018 - Post-fire Bat Monitoring 2014-17.pdf&#34;&gt;here&lt;/a&gt; ) as well as the first version of a &lt;a href=&#34;/../../files/FIRE-BAT_manual_v1.0.pdf&#34;&gt;spatial predictive tool&lt;/a&gt; designed to inform forest service management of bat habitats in burned landscapes. Additional publications for academic journals are in preparation.&lt;/p&gt;
+
+&lt;p&gt;Starting in 2017, surveys were expanded to two National Park wilderness areas and recordings were conducted coincident with temporary weather stations and throughout the summer season, allowing for assessments of bat phenology and activity fluctuations in response to weather. Additionally, I am testing the potential of lightweight smartphone-compatible bat detectors as citizen science tools. Bat data in wilderness areas is particularly difficult to gather and backpackers armed with such tools could dramatically increase our reach into these remote areas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Birds in burns</title>
       <link>/project/birds/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/birds/</guid>
       <description>&lt;p&gt;During 2014-16 my collaborators and I conducted avian point count surveys across 8 Sierra Nevada fire areas of different ages. These efforts were combined with those from a regional monitoring program containing survey locations coincident with an additional 25 fires. Using these data and a multi-species occupancy modeling approach, I am assessing the influence of wildfire spatial patterns and successional trajectories on bird species occupancy and community composition. One publication stemming from this project is currently in preparation, with additional articles planned.&lt;/p&gt;
@@ -32,10 +36,10 @@
     <item>
       <title>Wildfire Patterns</title>
       <link>/project/wildfire/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/wildfire/</guid>
-      <description>&lt;p&gt;Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I&amp;rsquo;ve assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression.&lt;/p&gt;
+      <description>&lt;p&gt;Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I&amp;rsquo;ve assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression. This work has resulted in two publications, which can be found &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES14-00224.1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;/../../files/Steel_et_al-2018-LandEcol.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
 
@@ -55,7 +59,7 @@
     <item>
       <title>The changing landscape of wildfire: Burn pattern trends and implications for California’s yellow pine and mixed conifer forests</title>
       <link>/publication/landscape-fire/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/landscape-fire/</guid>
       <description></description>
@@ -64,7 +68,7 @@
     <item>
       <title></title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -74,7 +78,7 @@
     <item>
       <title>Patterns of bird diversity and habitat use in mixed vineyard-matorral landscapes of Central Chile</title>
       <link>/publication/chile-birds/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0600</pubDate>
       
       <guid>/publication/chile-birds/</guid>
       <description></description>
@@ -83,7 +87,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -93,7 +97,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -281,7 +285,7 @@ git submodule update --init --recursive
     <item>
       <title>The fire frequency-severity relationship and the legacy of fire suppression in California forests</title>
       <link>/publication/severity-frequency/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0800</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0600</pubDate>
       
       <guid>/publication/severity-frequency/</guid>
       <description></description>
