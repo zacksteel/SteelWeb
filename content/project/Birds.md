@@ -9,7 +9,7 @@ title = "Birds in burns"
 summary = "Evaluating how bird occurrence and diversity vary across forest landscapes and disturbance gradients"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "CHSP_Nest.jpg"
+image_preview = "CHSP_NestSmall.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
