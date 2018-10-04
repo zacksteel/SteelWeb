@@ -9,7 +9,7 @@ title = "Wildfire Patterns"
 summary = "Assessing changes in wildfire patterns in western forests and implications for forest resilience"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "RimLupinesSmall.png"
+image_preview = "RimLupinesSmall.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
