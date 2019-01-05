@@ -9,7 +9,7 @@ title = "Bat Acoustics"
 summary = "Eavesdropping on bats using acoustic monitoring"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "MicSilhouette.JPG"
+image_preview = "MicSilhouetteSmall.JPG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

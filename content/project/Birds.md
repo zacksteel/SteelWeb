@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/PowerPano.jpg"
+image = "headers/PowerPanoSmall.jpg"
 caption = "Power Fire; 10 yrs post-fire"
 
 +++
