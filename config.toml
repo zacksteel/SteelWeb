@@ -56,11 +56,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "default"
 
   # Your details.
   name = "Zack Steel, PhD"
@@ -273,14 +273,19 @@ enableGitInfo = false
   weight = 1
   
 [[menu.main]]
-name = "Projects"
-url = "#projects"
-weight = 2
+  name = "Projects"
+  url = "#projects"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 3
+
+[[menu.main]]
+  name = "Media"
+  url = "/media/"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
