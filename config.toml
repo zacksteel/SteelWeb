@@ -282,10 +282,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 3
 
-[[menu.main]]
-  name = "Media"
-  url = "/media/"
-  weight = 4
+#[[menu.main]]
+#  name = "Media"
+#  url = "/media/"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
