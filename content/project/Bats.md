@@ -27,6 +27,7 @@ image = "headers/ANPA_Sonograph.JPG"
 caption = "Visualization of a Pallid Bat Echolocation using SonoBat software"
 
 # Add some sort of image, maybe a map of a mobile survey
+
 +++
 
 Using acoustic surveys of bat echolocations and hierarchical modeling, I am assessing how bat occupancy and activity levels vary across disturbance gradients and habitat types in the Sierra Nevada Mountains. 
