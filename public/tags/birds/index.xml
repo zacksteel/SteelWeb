@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birds on Zack Steel</title>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/bats/</guid>
-      <description>Using acoustic surveys of bat echolocations and hierarchical modeling, I am assessing how bat occupancy and activity levels vary across disturbance gradients and habitat types in the Sierra Nevada Mountains.
-During 2014-17 we conducted acoustic surveys of forest bat species in 3 wildfire areas and within surrounding unburned forests. We are using these data to evaluate the effects of wildfire and post-fire management on the bat community. To date, this project has resulted in three technical reports ( here, here and here ) as well as the first version of a spatial predictive tool designed to inform forest service management of bat habitats in burned landscapes.</description>
+      <description>Eavesdropping on bats using acoustic monitoring</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ During 2014-17 we conducted acoustic surveys of forest bat species in 3 wildfire
       <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/birds/</guid>
-      <description>Bird occurrence and abundance varies across environmental and disturbance gradients, which are in turn affected by global change. Using avian surveys from burned and unburned forests in the Sierra Nevada Mountains of California, I seek to improve our understanding or how bird communities responds to wildfire- and management-induced changes in habitat structure and landscape pattern.
-During 2014-16 my collaborators and I conducted avian point count surveys across 8 Sierra Nevada fire areas of different times since disturbance.</description>
+      <description>Evaluating how bird occurrence and diversity vary across forest landscapes and disturbance gradients</description>
     </item>
     
   </channel>

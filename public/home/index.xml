@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Zack Steel</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,7 +26,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am a postdoctoral researcher at the University of California, Berkeley in the Stephens lab. In collaboration with the North lab at UC Davis and the US Forest service, my current research focuses on the impacts of extreme drought on California&amp;rsquo;s forests, and the ecological consequences of shifting wildfire regimes. My dissertation research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.</description>
+      <description>Biography I am a postdoctoral researcher at the University of California, Berkeley in the Stephens lab. In collaboration with the North lab at UC Davis and the US Forest service, my current research focuses on the impacts of extreme drought on California&#39;s forests, and the ecological consequences of shifting wildfire regimes. My dissertation research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.</description>
     </item>
     
     <item>
