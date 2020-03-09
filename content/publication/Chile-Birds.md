@@ -22,8 +22,9 @@ publication = "*Ecological Indicators*, 73:345-357"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "The Mediterranean climate region of central Chile is rich in biodiversity and contains highly productive agricultural lands, which creates challenges for the preservation of natural habitats and native biodi- versity. Ecological data and studies for the region are also limited, making informed conservation in agricultural landscapes difficult. The increasing availability of remotely sensed data provide opportu- nities to relate species occurrences to measures of landscape heterogeneity even when field measures of habitat structure are lacking. When working with such remotely sensed data, it’s important to select appropriate measures of heterogeneity, including common metrics of landscape composition as well as frequently overlooked shape metrics. In this contribution we combine bird surveys with multispectral satellite imagery to develop boosted regression tree models of avian species richness, and of habitat use for 15 species across a mixed vineyard-matorral landscape in central Chile. We found a range of associations between individual species and land cover types, with the majority of species occurring most frequently in remnant habitats and ecotones rather than the interiors of large vineyard blocks. Models identified both metrics of landscape composition and patch shape as being important predictors of species occurrence, suggesting that shape metrics can complement more commonly used metrics of landscape composition. Vineyards that include corridors or islands of remnant habitat among vine blocks may increase the amount of area available to many species, although some species may still require large tracts of intact natural habitat to persist."
+# Space in abstract_short allows full abstract in subpage only
+abstract_short = " "
 
 # Featured image thumbnail (optional)
 image_preview = "headers/VinesBird.jpg"
@@ -66,8 +67,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/VinesBird.jpg"
-caption = "test"
+image = "headers/VinesBird_skinny.jpg"
+caption = "Vina Caliterra"
 
 +++
 

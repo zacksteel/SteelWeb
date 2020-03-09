@@ -1,6 +1,6 @@
 +++
 title = "The effects of wildfire severity and pyrodiversity on bat occupancy and diversity in fire-suppressed forests"
-date = 2019-11-01T00:00:00
+date = 2019-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
