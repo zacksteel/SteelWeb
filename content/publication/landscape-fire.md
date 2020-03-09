@@ -66,8 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/PowerSeverity
-_skinny.jpg"
+image = "headers/PowerSeverity_skinny.jpg"
 caption = "Power Fire severity map"
 
 +++
