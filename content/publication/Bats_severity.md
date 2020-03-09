@@ -1,6 +1,6 @@
 +++
 title = "The effects of wildfire severity and pyrodiversity on bat occupancy and diversity in fire-suppressed forests"
-date = 2017-02-01T00:00:00
+date = 2019-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,12 +18,13 @@ authors = ["ZL Steel", "B Campos", "W. F. Frick", "R. Burnett", "H. D. Safford"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Scientific Reports*, 9:16300, 2019"
+publication = "*Scientific Reports*, 9:16300"
 publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Wildfire is an important ecological process that influences species’ occurrence and biodiversity generally. Its effect on bats is understudied, creating challenges for habitat management and species conservation as threats to the taxa worsen globally and within fire-prone ecosystems. We conducted acoustic surveys of wildfire areas during 2014–2017 in conifer forests of California’s Sierra Nevada Mountains. We tested effects of burn severity and its variation, or pyrodiversity, on occupancy and diversity for the 17-species bat community while accounting for imperfect detection. Occupancy rates increased with severity for at least 6 species and with pyrodiversity for at least 3. Two other species responded negatively to pyrodiversity. Individual species models predicted maximum occupancy rates across burn severity levels but only one species occurred most often in undisturbed areas. Species richness increased from approximately 8 species in unburned forests to 11 in pyrodiverse areas with moderate- to high-severity. Greater accessibility of foraging habitats, as well as increased habitat heterogeneity may explain positive responses to wildfire. Many bat species appear well adapted to wildfire, while a century of fire suppression and forest densification likely reduced habitat quality for the community generally. Relative to other taxa, bats may be somewhat resilient to increases in fire severity and size; trends which are expected to continue with accelerating climate change."
-abstract_short = ""
+# Space in abstract_short allows full abstract in subpage only
+abstract_short = " "
 
 # Featured image thumbnail (optional)
 image_preview = "headers/BatRichness.jpg"
@@ -67,7 +68,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/SnagSunset_skinny.jpg"
-caption = "test"
+caption = "Government Fire 2014"
 
 +++
 

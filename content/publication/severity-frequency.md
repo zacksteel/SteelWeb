@@ -1,7 +1,7 @@
 +++
 title = "The fire frequency-severity relationship and the legacy of fire suppression in California forests"
 date = 2015-01-01T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["ZL Steel", "HD Safford", "JH Viers"]
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/SnagSunset.jpg"
+image = "headers/SnagSunset_skinny.jpg"
 caption = "Government Fire 2014"
 
 +++
