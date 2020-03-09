@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Forests and Wildlife",
-    "Global Change",
+    "Forests & Wildlife",
+    "Disturbance & Resilience",
     "Landscape Ecology"
   ]
 

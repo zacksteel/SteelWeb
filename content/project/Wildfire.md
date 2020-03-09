@@ -28,7 +28,7 @@ caption = "Power Fire; 10 yrs post-fire"
 
 +++
 
-Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I've assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression. This work has resulted in two publications, which can be found [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES14-00224.1) and [here](/../../files/Steel_et_al-2018-LandEcol.pdf).
+Using satellite-derived measures of burn severity (RnDBR), and historical fire perimeter data, I've assessed how fire severity is influenced by previous fire history, and how landscape patterns of burn severity matrices are changing over time in response to climate change and forest management/fire suppression. This work has resulted in two publications, which can be found [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/ES14-00224.1) and [here](/../../files/Steel_et_al-2018-LandEcol.pdf).  
 
-{{< figure src="/img/Steel_etal2015_Fig7.jpg" title="A lack of fire in yellow pine and mixed conifer forests (through exclusion or luck), leads to more high-severity when it does burn. Grey curves are model predictions for fires in the Sierra Nevada, the blue curve is fore the forest type in general. Figure from Steel et al. 2015." width="400px">}}
+Recent work has focused on quantifying and mapping fire-driven habitat heterogeneity (i.e. pyrodiversity) across forested ecosystems of the Western United States using remotely-sensed fire history data and Google Earth Engine. The resulting publication and associated data products are intended to facilitate testing of the theory that "pyrodiversity begets biodiversity" across regions and taxa.  
 

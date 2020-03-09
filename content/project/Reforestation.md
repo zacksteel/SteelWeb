@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["Forests", "Drought", "Landscape Ecology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://zacksteel.shinyapps.io/reforest_tool"
+external_link = "https://climate-wise.shinyapps.io/reforest_toolkit/"
 
 # Does the project detail page use math formatting?
 math = false
