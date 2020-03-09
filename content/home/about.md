@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Forests and Wildlife",
     "Global Change",
-    "Quantitative Ecology"
+    "Landscape Ecology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral researcher at the University of California, Berkeley in the [Stephens lab](https://nature.berkeley.edu/stephenslab/). In collaboration with the [North lab](https://northlab.faculty.ucdavis.edu/) at UC Davis and the US Forest service, my current research focuses on the impacts of extreme drought on California's forests, and the ecological consequences of shifting wildfire regimes. My dissertation research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.
+I am a postdoctoral researcher at the University of California, Berkeley in the [Stephens lab](https://nature.berkeley.edu/stephenslab/). In collaboration with the [North lab](https://northlab.faculty.ucdavis.edu/) at UC Davis and the US Forest service, my current research focuses on the consequences of shifting wildfire patterns on biodiversity, and the impacts of extreme drought on ecosystem resilience. My PhD research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.
