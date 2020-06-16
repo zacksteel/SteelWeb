@@ -29,6 +29,6 @@ caption = ""
 # Add some sort of image, maybe a map of a mobile survey
 +++
 
-Using repeated stem-map data from a long-term experimental forest treatment and Structural Equation Analysis, we are assessing how stand density, species composition and tree health drives drought mortality or persistence. A two-decade manipulative experiemnt in the [The Teakettle Forest](https://teakettle.ucdavis.edu) has provided us with this unique opportunity to test the impact of the historic 2012-2016 drought in California's Sierra Nevada Mountains. Findings from this study are informing forest management practices and preview how forest ecosystem may change dramatically under increasingly severe droughts in a warming region.  
+Using repeated stem-map data from a long-term experimental forest treatment and Structural Equation Analysis, we are assessing how stand density, species composition and tree health drives drought mortality or persistence. A two-decade manipulative experiemnt in the [The Teakettle Forest](https://teakettle.ucdavis.edu) has provided us with this unique opportunity to test the impact of the historic 2012-2016 drought in California's Sierra Nevada Mountains. Findings from this study (in review) are informing forest management practices and preview how forest ecosystem may change dramatically under increasingly severe droughts in a warming region.  
 
 
