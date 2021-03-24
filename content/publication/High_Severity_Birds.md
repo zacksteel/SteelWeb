@@ -1,6 +1,6 @@
 +++
 title = "When bigger isn't better - implications of large high-severity wildfire patches for avian diversity and community composition"
-date = "In Press" #2019-12-01T00:00:00
+date = 2021-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Z.L. Steel", "A. Fogg", "R. Burnett", "L.J. Roberts", "H.D. Safford"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Diversity and Distributions*"
+publication = "*Diversity and Distributions, In Press*"
 publication_short = ""
 
 # Abstract and optional shortened version.
