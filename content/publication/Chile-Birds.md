@@ -27,7 +27,7 @@ abstract = "The Mediterranean climate region of central Chile is rich in biodive
 abstract_short = " "
 
 # Featured image thumbnail (optional)
-image_preview = "headers/VinesBird.jpg"
+#image_preview = "headers/VinesBird.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -37,7 +37,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["birds"]
+projects = ["Birds"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
