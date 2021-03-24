@@ -6,19 +6,10 @@
     <description>Recent content in 2 on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quantifying pyrodiversity and its drivers</title>
-      <link>/publication/pyrodiversity/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/pyrodiversity/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>When bigger isn&#39;t better - implications of large high-severity wildfire patches for avian diversity and community composition</title>
@@ -26,6 +17,15 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 -0800</pubDate>
       
       <guid>/publication/high_severity_birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying pyrodiversity and its drivers</title>
+      <link>/publication/pyrodiversity/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/pyrodiversity/</guid>
       <description></description>
     </item>
     
