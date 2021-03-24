@@ -22,8 +22,7 @@ publication = "*Diversity and Distributions, In Press*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = 
-"Aim: 
+abstract = "Aim: 
 Wildfires increasingly create large high-severity patches with interior areas far from less disturbed habitats. We evaluated how these trends impact bird communities by investigating the effect of internal distance from lower severity areas, high-severity patch size, and years since fire on avian alpha and beta diversity.
 
 Location:
@@ -36,8 +35,7 @@ Results:
 Community richness decreased with distance from patch edge and with patch size. Richness increased with years since fire, but this pattern was dependent on distance from edge with higher peak richness (23 species) near edges than interiors (18 species). Community dissimilarity was not associated with distance, indicating that large high-severity patch interiors contain subsets of, rather than complements to, edge communities. Dissimilarity peaked later with increasing patch size. Guild richness of tree and primary cavity nesters was negatively associated with distance and patch size. Richness of ground and shrub nesters was insensitive to distance, while shrub nester richness increased somewhat with patch size. Due to declines among other species, ground and shrub nesters made up a greater percentage of the avian community within the interiors of large high-severity patches.
 
 Main conclusions:
-As fire activity increases due to accumulating forest fuels and accelerating climate change, high-severity patches and their resulting early-seral habitats are becoming more extensive with less edge and more interior area. Such changes are likely to decrease avian diversity locally and shift community composition away from forest-associated species. Management actions that promote the full range of fire effects but limit high-severity patch size may best conserve bird diversity within fire-adapted ecosystems.
-"
+As fire activity increases due to accumulating forest fuels and accelerating climate change, high-severity patches and their resulting early-seral habitats are becoming more extensive with less edge and more interior area. Such changes are likely to decrease avian diversity locally and shift community composition away from forest-associated species. Management actions that promote the full range of fire effects but limit high-severity patch size may best conserve bird diversity within fire-adapted ecosystems."
 
 # Space in abstract_short allows full abstract in subpage only
 abstract_short = " "
