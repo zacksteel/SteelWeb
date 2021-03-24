@@ -37,7 +37,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["example-external-project"]
+projects = ["Bats"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -46,7 +46,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/s41598-019-52875-2.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-#url_code = "#"
+url_code = "https://github.com/zacksteel/FireBats"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
