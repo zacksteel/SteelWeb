@@ -43,7 +43,7 @@ As fire activity increases due to accumulating forest fuels and accelerating cli
 abstract_short = " "
 
 # Featured image thumbnail (optional)
-image_preview = "headers/HSBirds_dist.png"
+image_preview = "headers/HSBirds_dist_sm.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
