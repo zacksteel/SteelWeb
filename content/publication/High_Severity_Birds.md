@@ -37,7 +37,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Birds"]
+projects = ["Birds", "Wildfire"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -45,7 +45,7 @@ tags = []
 
 # Links (optional).
 #url_pdf = "https://www.nature.com/articles/s41598-019-52875-2.pdf"
-url_preprint = "https://ecoevorxiv.org/ay94q"
+#url_preprint = "https://ecoevorxiv.org/ay94q"
 url_code = "https://github.com/zacksteel/High_Severity_Birds"
 #url_dataset = "#"
 #url_project = "#"
@@ -56,7 +56,7 @@ url_code = "https://github.com/zacksteel/High_Severity_Birds"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Link", url = "https://www.nature.com/articles/s41598-019-52875-2"}]
+url_custom = [{name = "Link", url = "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13281"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

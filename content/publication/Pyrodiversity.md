@@ -44,8 +44,8 @@ projects = ["Wildfire"]
 tags = []
 
 # Links (optional).
-#url_pdf = "https://www.nature.com/articles/s41598-019-52875-2.pdf"
-url_preprint = "https://papers.cociwg.org/doi/full/10.22541/au.159248738.89419785"
+url_pdf = "https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.3202"
+#url_preprint = "https://papers.cociwg.org/doi/full/10.22541/au.159248738.89419785"
 url_code = "https://github.com/zacksteel/pyrodiversity"
 url_dataset = "https://figshare.com/articles/Pyrodiversity_westCONUS/12478832"
 #url_project = "#"
@@ -56,7 +56,7 @@ url_dataset = "https://figshare.com/articles/Pyrodiversity_westCONUS/12478832"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Link", url = "https://www.nature.com/articles/s41598-019-52875-2"}]
+url_custom = [{name = "Link", url = "https://doi.org/10.1098/rspb.2020.3202"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
