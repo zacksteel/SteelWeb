@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral researcher at the University of California, Berkeley in the [Stephens lab](https://nature.berkeley.edu/stephenslab/). In collaboration with the [North lab](https://northlab.faculty.ucdavis.edu/) at UC Davis and the US Forest service, my current research focuses on the consequences of shifting disturbance patterns for biodiversity and ecosystem resilience. My PhD research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.
+I am a postdoctoral researcher at the University of California, Berkeley in the [Stephens lab](https://nature.berkeley.edu/stephenslab/). My current research focuses on the consequences of shifting disturbance patterns and efforts to restore ecological process (e.g., through use of managed wildfire) for biodiversity and ecosystem resilience. Some of my past research focused on how wildfire and forest management alter landscape pattern, and influence habitat use of birds and bats in the forests of California’s Sierra Nevada Mountains.
