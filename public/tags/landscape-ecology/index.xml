@@ -6,7 +6,7 @@
     <description>Recent content in Landscape Ecology on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/landscape-ecology/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Bat Acoustics</title>
       <link>/project/bats/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/bats/</guid>
       <description>Eavesdropping on bats using acoustic monitoring</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Birds in burns</title>
       <link>/project/birds/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/birds/</guid>
       <description>Evaluating how bird occurrence and diversity vary across forest landscapes and disturbance gradients</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Climate-wise Reforestation Toolbox</title>
       <link>/project/reforestation/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/reforestation/</guid>
       <description>Building web tools to aid post-drought forest management decisions</description>
@@ -41,7 +41,7 @@
     <item>
       <title>Forest Drought Mortality</title>
       <link>/project/drought/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/drought/</guid>
       <description>Investigating the mechanisms of drought-caused tree mortality, and efficacy of forest treatments</description>
@@ -50,7 +50,7 @@
     <item>
       <title>Pyrodiversity</title>
       <link>/project/wildfire/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/wildfire/</guid>
       <description>Quantifying variation in fire history patterns (pyrodiversity) and assessing changes in wildfire regimes with implications for biodiversity and forest resilience</description>

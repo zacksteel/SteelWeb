@@ -6,7 +6,7 @@
     <description>Recent content in Drought on Zack Steel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/drought/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Climate-wise Reforestation Toolbox</title>
       <link>/project/reforestation/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/reforestation/</guid>
       <description>Building web tools to aid post-drought forest management decisions</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Forest Drought Mortality</title>
       <link>/project/drought/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 -0600</pubDate>
       
       <guid>/project/drought/</guid>
       <description>Investigating the mechanisms of drought-caused tree mortality, and efficacy of forest treatments</description>
